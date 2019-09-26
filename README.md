@@ -3,7 +3,7 @@
 各个模块的作用:
 
 message-core:                   定义消息对象和消息接口<br>
-message-center-service:         核心消息服务<br
+message-center-service:         核心消息服务<br>
 
 unconfirmed-message-checker:    未确认消息处理, 调用主动业务的业务确认接口<br>
 unconsumed-message-checker:     未消费消息处理, 发送给消息消费者<br>
